@@ -66,5 +66,5 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
 
 📧 **Contact**  
 - **Email**: robertjp@live.com  
-- **GitHub**: [Robert Jean Pierre](https://github.com/your-username)  
+- **GitHub**: [Robert Jean Pierre](https://github.com/rpmjp)  
 - **Portfolio**: [My Portfolio](#)  
