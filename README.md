@@ -7,7 +7,7 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
 
 ### 🏫 **Education**
 - 🎓 **Master's in Computer Science (In Progress)**  
-  *New Jersey Institute of Technology (NJIT)*, starting Spring 2024  
+  *New Jersey Institute of Technology (NJIT)*, September 2024  
   *Focus*: Machine Learning, Artificial Intelligence, Data Science, and Programming Languages
 
 - 🎓 **Bachelor's in Computer Science**  
