@@ -1,5 +1,5 @@
 # Robert Jean Pierre
-** Computer Scientist |  Data Scientist |  Aspiring AI/ML Specialist**
+**Computer Scientist |  Data Scientist |  Aspiring AI/ML Specialist**
 
 I'm a recent Computer Science graduate with a solid foundation in programming, data science, machine learning, and artificial intelligence. I am passionate about creating impactful projects that solve real-world problems and enhance user experiences. My journey includes leveraging cutting-edge technologies and collaborating on innovative solutions to push the boundaries of what's possible.
 
