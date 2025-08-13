@@ -1,38 +1,38 @@
 # Robert Jean Pierre
-**🚀 Computer Scientist | 📊 Data Scientist | 🤖 Aspiring AI/ML Specialist**
+** Computer Scientist |  Data Scientist |  Aspiring AI/ML Specialist**
 
 I'm a recent Computer Science graduate with a solid foundation in programming, data science, machine learning, and artificial intelligence. I am passionate about creating impactful projects that solve real-world problems and enhance user experiences. My journey includes leveraging cutting-edge technologies and collaborating on innovative solutions to push the boundaries of what's possible.
 
 ---
 
-### 🏫 **Education**
-- 🎓 **Master's in Computer Science (In Progress)** GPA: 3.84  
+### **Education**
+-  **Master's in Computer Science (In Progress)** GPA: 3.84  
   *New Jersey Institute of Technology (NJIT)*, September 2024  
   *Focus*: Machine Learning, Artificial Intelligence, Data Science, and Programming Languages
 
-- 🎓 **Bachelor's in Computer Science**
+-  **Bachelor's in Computer Science**
   *Rutgers University, New Brunswick*  
   Graduated with Honors | GPA: 3.69
   
 ---
 
-### 💼 **Professional Experience**
-#### 📌 **Marketing Manager**  
+###  **Professional Experience**
+####  **Marketing Manager**  
 *Verizon*  
-- 📈 Leveraged **SQL** and **Python** to analyze customer behavior, uncover trends, and improve sales strategies.  
-- 📊 Built **interactive Power BI dashboards** for real-time performance tracking and business insights.  
-- 🤖 Integrated **machine learning models** to optimize marketing campaigns, improve targeting, and enhance ROI.  
-- 🔍 Streamlined **data analysis workflows** using **Pandas** to accelerate decision-making processes.
+-  Leveraged **SQL** and **Python** to analyze customer behavior, uncover trends, and improve sales strategies.  
+-  Built **interactive Power BI dashboards** for real-time performance tracking and business insights.  
+-  Integrated **machine learning models** to optimize marketing campaigns, improve targeting, and enhance ROI.  
+-  Streamlined **data analysis workflows** using **Pandas** to accelerate decision-making processes.
 
-#### 📌 **Corporate Trainer & Assistant Manager**  
+####  **Corporate Trainer & Assistant Manager**  
 *Legacy Marketing*  
-- 🌟 Trained and managed a team of account executives, fostering a culture of collaboration and performance excellence.  
-- 🎯 Designed and executed marketing strategies for direct sales campaigns, delivering measurable results.  
-- 📊 Utilized **data visualization tools like Excel** to monitor performance trends and improve operations.  
+-  Trained and managed a team of account executives, fostering a culture of collaboration and performance excellence.  
+-  Designed and executed marketing strategies for direct sales campaigns, delivering measurable results.  
+-  Utilized **data visualization tools like Excel** to monitor performance trends and improve operations.  
 
 ---
 
-### 🛠️ **Technical Skills**
+###  **Technical Skills**
 
 #### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,29 +67,29 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
 
 ---
 
-### 📂 **Highlighted Projects**
-- 🚀 **Neural Network Minesweeper**: Designed and trained a neural network to play Minesweeper, outperforming an AI baseline model.  
-- 🛒 **Online Donut Shop**: Developed a fully functional e-commerce platform with a mobile app using **Flask** and **JavaScript**.  
-- 📸 **Image Classifier**: Built and trained deep learning models for **MNIST** and **CIFAR-10** datasets using **PyTorch**.  
-- 🧭 **Pathfinding Algorithm (A*)**: Implemented and visualized pathfinding strategies for grid-based worlds using Python.  
+###  **Highlighted Projects**
+-  **Neural Network Minesweeper**: Designed and trained a neural network to play Minesweeper, outperforming an AI baseline model.  
+-  **Online Donut Shop**: Developed a fully functional e-commerce platform with a mobile app using **Flask** and **JavaScript**.  
+-  **Image Classifier**: Built and trained deep learning models for **MNIST** and **CIFAR-10** datasets using **PyTorch**.  
+-  **Pathfinding Algorithm (A*)**: Implemented and visualized pathfinding strategies for grid-based worlds using Python.  
 
 ---
 
-### 🌟 **Current Endeavors**
-- 🌍 Developing **energy-efficient AI systems** to reduce AI's carbon footprint and enhance sustainability.  
-- 💡 Exploring opportunities in **data science**, **machine learning**, and **software engineering**.  
-- 🎓 Planning to pursue a **Ph.D.** to contribute to AI's ethical and efficient evolution.
+###  **Current Endeavors**
+-  Developing **energy-efficient AI systems** to reduce AI's carbon footprint and enhance sustainability.  
+-  Exploring opportunities in **data science**, **machine learning**, and **software engineering**.  
+-  Planning to pursue a **Ph.D.** to contribute to AI's ethical and efficient evolution.
 
 ---
 
-### 📈 **Fun Facts**
-- 🥇 First in my family to attend university, setting an example for my son.  
-- ⚽ Sports enthusiast: Soccer, basketball, and track (400m & 800m runner).  
-- ❤️ Former Peer Counselor, helping individuals overcome addiction.
+###  **Fun Facts**
+-  First in my family to attend university, setting an example for my son.  
+-  Sports enthusiast: Soccer, basketball, and track (400m & 800m runner).  
+-  Former Peer Counselor, helping individuals overcome addiction.
 
 ---
 
-📧 **Contact**  
-- 📩 **Email**: [robertjp@live.com](mailto:robertjp@live.com)  
-- 💻 **GitHub**: [Robert Jean Pierre](https://github.com/rpmjp)  
-- 🌐 **Portfolio**: [My Portfolio](https://robertjeanpierre.com/)
+ **Contact**  
+-  **Email**: [robertjp@live.com](mailto:robertjp@live.com)  
+-  **GitHub**: [Robert Jean Pierre](https://github.com/rpmjp)  
+-  **Portfolio**: [My Portfolio](https://robertjeanpierre.com/)
