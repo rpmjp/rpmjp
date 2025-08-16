@@ -1,7 +1,7 @@
 # Robert Jean Pierre
-**Computer Scientist |  Data Scientist |  Aspiring AI/ML Specialist**
+**Computer Scientist | Data Scientist | AI/ML Engineer in Training**
 
-I'm a recent Computer Science graduate with a solid foundation in programming, data science, machine learning, and artificial intelligence. I am passionate about creating impactful projects that solve real-world problems and enhance user experiences. My journey includes leveraging cutting-edge technologies and collaborating on innovative solutions to push the boundaries of what's possible.
+Computer Scientist with expertise in data science, machine learning, and software development. Skilled in Python, SQL, and deep learning frameworks (PyTorch, TensorFlow), with hands-on experience delivering data-driven solutions that improve decision-making and business outcomes. Passionate about building AI systems that are both impactful and sustainable, with research interests in efficient and ethical artificial intelligence.
 
 ---
 
@@ -17,18 +17,19 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
 ---
 
 ###  **Professional Experience**
-####  **Marketing Manager**  
-*Verizon*  
--  Leveraged **SQL** and **Python** to analyze customer behavior, uncover trends, and improve sales strategies.  
--  Built **interactive Power BI dashboards** for real-time performance tracking and business insights.  
--  Integrated **machine learning models** to optimize marketing campaigns, improve targeting, and enhance ROI.  
--  Streamlined **data analysis workflows** using **Pandas** to accelerate decision-making processes.
+####  **Data & Marketing Analytics Manager**  
+*Verizon / JP Levi*  
+-  Applied **SQL and Python** to analyze millions of customer records, uncovering behavioral trends that improved campaign targeting accuracy by **25%**.  
+-  Built and deployed **Power BI dashboards**, enabling real-time KPI monitoring and accelerating decision-making by **35%**.  
+-  Developed **machine learning models** that optimized campaign targeting, increasing ROI by **18%** across multiple channels.  
+-  Automated analytics workflows with **Pandas**, reducing reporting time by **40%** and cutting manual errors by **60%**.
 
 ####  **Corporate Trainer & Assistant Manager**  
 *Legacy Marketing*  
--  Trained and managed a team of account executives, fostering a culture of collaboration and performance excellence.  
--  Designed and executed marketing strategies for direct sales campaigns, delivering measurable results.  
--  Utilized **data visualization tools like Excel** to monitor performance trends and improve operations.  
+-  Managed and trained a team of 10+, driving data-backed performance improvements that raised productivity by **30%**.  
+-  Designed customer segmentation strategies, boosting sales conversions by **20%** and improving territory efficiency.  
+-  Introduced **Excel-based data visualization**, reducing report preparation time by **45%** and improving executive decision-making.  
+-  Bridged technical insights with business operations, enabling projects to be delivered **15% faster**.
 
 ---
 
@@ -39,31 +40,45 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-74283C?style=for-the-badge&logo=swi-prolog&logoColor=white)
 
 #### **Data Tools**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-#### **AI/ML**
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Image Classification](https://img.shields.io/badge/Image_Classification-0769AD?style=for-the-badge&logo=opencv&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-563D7C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### **Frameworks & Tools**
+#### **AI/ML Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### **Data Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Development Tools**
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 #### **Web Development**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### **Other**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -92,4 +107,4 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
  **Contact**  
 -  **Email**: [robertjp@live.com](mailto:robertjp@live.com)  
 -  **GitHub**: [Robert Jean Pierre](https://github.com/rpmjp)  
--  **Portfolio**: [My Portfolio](https://robertjeanpierre.com/)
+-  **Portfolio**: [My Portfolio](https://robertjeanpierre.com/) 
