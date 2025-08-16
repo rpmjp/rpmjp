@@ -92,35 +92,35 @@ Computer Scientist with expertise in data science, machine learning, and softwar
 
 ###  **Highlighted Projects**
 
-####  **🎯 Swin Transformer Image Classification**  
+####  **Swin Transformer Image Classification**  
 *Python | PyTorch | Computer Vision*  
 -  Conducted comprehensive evaluation of **Swin Transformer architectures** on Oxford-IIIT Pet dataset (7,400 images, 37 classes), achieving **93.8%–96.35% validation accuracy**.  
 -  Benchmarked Swin-T/S/B models against RegNet CNNs, EfficientNet, and ViT, demonstrating **11–16% accuracy improvement** over CNN baselines with superior computational efficiency.  
 -  Identified critical limitations of EfficientNet scaling and ViT failure modes on small datasets, providing **deployment guidelines for resource-constrained environments**.  
 -  **Impact**: Delivered research findings applicable to mobile computer vision with high accuracy and limited computational resources.
 
-####  **🔥 Calorie Burn Prediction Model**  
+####  **Calorie Burn Prediction Model**  
 *Python | LightGBM | XGBoost | CatBoost*  
 -  Developed ensemble ML pipeline predicting calorie burn from biometric data, achieving **0.0593 RMSLE** on 250K test samples with weighted LightGBM–XGBoost–CatBoost blend.  
 -  Engineered metabolic features (BMI, MET_proxy, HR×Duration) and applied log transformation to reduce target skewness from **0.54 to -0.86**.  
 -  Optimized ensemble coefficients via **5-fold cross-validation** with residual analysis, ensuring robust performance across diverse user profiles.  
 -  **Impact**: Delivered fitness-app-ready model for accurate, real-time calorie tracking across exercise intensities.
 
-####  **🛡️ Fraud Detection in Financial Transactions**
+####  **Fraud Detection in Financial Transactions**
 *Python | LightGBM | SHAP | SMOTE*  
 -  Built end-to-end ML pipeline analyzing **6.3M transactions**, achieving **99.9% fraud recall** and **0.9999 ROC-AUC** using LightGBM with advanced feature engineering.  
 -  Applied **SMOTE** to handle 3.5% class imbalance and engineered behavioral features (sender_avg_amount, balance_jump_flag), improving fraud detection by **45%** over baseline.  
 -  Implemented **SHAP explainability** for model transparency, enabling regulatory compliance and audit requirements in financial systems.  
 -  **Impact**: Delivered production-ready model for real-time banking fraud detection with sub-second prediction capability.
 
-####  **🎲 AI-Powered Cluedo Game**  
+####  **AI-Powered Cluedo Game**  
 *Python | Game AI | Strategic Planning*  
 -  Designed intelligent game AI with **strategic deduction logic** and configurable difficulty levels, implementing pathfinding algorithms and anti-loop detection for optimal gameplay.  
 -  Built comprehensive **knowledge tracking system** enabling AI players to make logical deductions from 20-100 game turns, achieving **90%+ win rate** on hard difficulty.  
 -  Implemented modular OOP architecture with **15+ interconnected classes**, supporting 3-6 mixed human/AI players with real-time strategy adaptation.  
 -  **Impact**: Demonstrated advanced AI planning algorithms applicable to strategic decision-making systems and game theory applications.
 
-####  **🏥 NMA Clinic Management System**  
+####  **NMA Clinic Management System**  
 *PHP | MySQL | JavaScript | HTML/CSS*  
 -  Developed full-stack healthcare management system with **20+ normalized MySQL tables** supporting patient care, surgery scheduling, and staff management for 500+ concurrent users.  
 -  Implemented **role-based access control** across 5 user types (physicians, nurses, surgeons, administrators) with secure authentication and data isolation.  
