@@ -12,11 +12,19 @@ Computer Scientist with expertise in data science, machine learning, and softwar
 
 -  **Bachelor's in Computer Science**
   *Rutgers University, New Brunswick*  
-  Graduated with Honors
+  Graduated with Honors | GPA: 3.69
   
 ---
 
 ###  **Professional Experience**
+####  **Graduate Researcher – Deep Learning**  
+*New Jersey Institute of Technology, Fall 2025*  
+-  Conducted a comprehensive evaluation of **Swin Transformer architectures** for fine-grained image classification on the **Oxford-IIIT Pet dataset** (~7,400 images, 37 classes).  
+-  Benchmarked Swin-T, Swin-S, and Swin-B against **RegNet CNNs, EfficientNet, and ViT models** under controlled experimental conditions.  
+-  Achieved **93.8%–96.35% validation accuracy** with Swin models, improving accuracy by **11–16%** over CNN baselines and demonstrating computational efficiency advantages.  
+-  Identified limitations of EfficientNet scaling and catastrophic failure of ViTs on small datasets, providing **deployment guidelines for resource-constrained environments**.  
+-  Authored a full **research report and presentation**, proposing future directions in adaptive attention and edge deployment of hierarchical transformers.
+
 ####  **Data & Marketing Analytics Manager**  
 *Verizon / JP Levi*  
 -  Applied **SQL and Python** to analyze millions of customer records, uncovering behavioral trends that improved campaign targeting accuracy by **25%**.  
@@ -107,4 +115,4 @@ Computer Scientist with expertise in data science, machine learning, and softwar
  **Contact**  
 -  **Email**: [robertjp@live.com](mailto:robertjp@live.com)  
 -  **GitHub**: [Robert Jean Pierre](https://github.com/rpmjp)  
--  **Portfolio**: [My Portfolio](https://robertjeanpierre.com/) 
+-  **Portfolio**: [My Portfolio](https://robertjeanpierre.com/)
