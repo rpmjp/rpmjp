@@ -6,8 +6,8 @@ I'm a recent Computer Science graduate with a solid foundation in programming, d
 ---
 
 ### **Education**
--  **Master's in Computer Science (In Progress)** GPA: 3.84  
-  *New Jersey Institute of Technology (NJIT)*, September 2024  
+-  **Master's in Computer Science (In Progress)** GPA: 3.9  
+  *New Jersey Institute of Technology (NJIT)*, Current  
   *Focus*: Machine Learning, Artificial Intelligence, Data Science, and Programming Languages
 
 -  **Bachelor's in Computer Science**
