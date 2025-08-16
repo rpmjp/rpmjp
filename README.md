@@ -12,7 +12,7 @@ Computer Scientist with expertise in data science, machine learning, and softwar
 
 -  **Bachelor's in Computer Science**
   *Rutgers University, New Brunswick*  
-  Graduated with Honors | GPA: 3.69
+  Graduated with Honors
   
 ---
 
